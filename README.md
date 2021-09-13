@@ -13,8 +13,26 @@ jv-weather](https://github.com/JGhignatti/jv-weather)
 
 ## Escopo do produto
 
-TODO...
+Portal web para consultar o clima/tempo
+
+- Um campo de busca para digital a cidade
+- Um campo de busca com autocomplete
+- Opção de salvar o local nos favoritos
+- Menu lateral com links:
+  - Home
+  - Favoritos
 
 ## Escopo do projeto
 
-TODO...
+Desenvolvimento frontend com AngularJS
+
+Components:
+
+- Home
+- Details
+- Bookmarks
+
+Routes:
+
+- Rotas para consulta na API Open Weather
+- Rotas internas da aplicação
